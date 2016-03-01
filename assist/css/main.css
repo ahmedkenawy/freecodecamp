@@ -3,8 +3,7 @@ body{
   color: white;
 }
 #img-src{
-  width: 300px;
-  border-radius: 50%;
+  width: 200px;
   margin: 50px;
 }
 .parg{
@@ -12,4 +11,21 @@ body{
   text-align: center;
   font-family: monoco;
   color: rgb(148, 148, 148);
+}
+.content{
+  margin: 100px;
+}
+#img-src1{
+  width: 900px;
+  height: 400px;
+  padding: 80px;
+}
+#img-src2{
+  width: 900px;
+  height: 400px;
+  padding: 80px;
+}
+li{
+  font-size: 50px;
+  margin: 50px;
 }
